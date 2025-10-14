@@ -1,2 +1,0 @@
-# boolgombear.github.io
-Boolgombear
