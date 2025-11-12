@@ -1,5 +1,5 @@
 ---
-title: "Minjea Park 이력서"
+title: "Minjea Park CV"
 date: 2025-10-14 09:30:00 +0900
 categories: [Profile]
 tags: [cv, resume, security, research]
