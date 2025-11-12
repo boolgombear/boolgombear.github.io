@@ -21,8 +21,8 @@ tags: [cv, resume, security, research]
 ## Education
 
 ### Korea University · Bachelor of Smart Security
-- 기간: 2023.03&nbsp;–&nbsp;2025.08 (예정)
-- GPA: 3.92 / 4.5
+- 기간: 2023.03&nbsp;–&nbsp;2025.08
+- GPA: 3.94 / 4.5
 - 2023년 3월, 세종대학교에서 편입
 
 ### Sejong University · Bachelor of Information Security
@@ -33,7 +33,10 @@ tags: [cv, resume, security, research]
 - 기간: 2020.07&nbsp;–&nbsp;2021.03
 
 ## Achievements
-
+- CVE-2025-62202 · Microsoft Excel · Out-of-bounds Read (2025.11)
+- CVE-2025-60728 · Microsoft Excel · Untrusted Pointer Dereference, Out-of-bounds Read (2025.11)
+- CVE-2025-62201 · Microsoft Excel · Heap-based Buffer Overflow (2025.11)
+- CVE-2025-62200 · Microsoft Excel · Untrusted Pointer Dereference (2025.11)
 - MSRC MVR 2025 76위
 - CVE-2025-53741 · Microsoft Excel · Heap-based Buffer Overflow (2025.08)
 - CVE-2025-53759 · Microsoft Excel · Use of Uninitialized Resource (2025.08)
